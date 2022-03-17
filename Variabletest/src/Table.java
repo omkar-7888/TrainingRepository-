@@ -4,6 +4,7 @@ public class Table {
 	public static void main(String[] args) {
 		Table t1 = new Table();
 		t1.table(5);
+		System.out.println("Table Generated:");
 		
 		}
 	public void table(int num) {
